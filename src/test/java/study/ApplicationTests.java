@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DioSantanderRestApiApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
